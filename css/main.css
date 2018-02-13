@@ -1,0 +1,27 @@
+td,
+th{
+  border-radius: 5px;
+  text-align: center;
+}
+
+th{
+  background-color: lightblue;
+}
+table{
+  border-spacing: 5px;
+}
+.magistral{
+  background-color: #bfbfbf;
+}
+.conf{
+  background-color: #e5e6ff;
+}
+.general{
+  background-color: #9798ca;
+}
+.taller{
+  background-color: #9699fe;
+}
+.informal{
+  background-color: #cacbff;
+}
