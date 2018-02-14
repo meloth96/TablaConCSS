@@ -13,11 +13,14 @@ table{
 .magistral{
   background-color: #bfbfbf;
 }
+.tutorial{
+  background-color: #91cdff;
+}
 .conf{
   background-color: #e5e6ff;
 }
 .ponente{
-  
+
 }
 .general{
   background-color: #9798ca;
@@ -28,7 +31,17 @@ table{
 .informal{
   background-color: #cacbff;
 }
+td span{
+  display: block;
+}
+.ponente{
+  font-style: italic;
+}
+.event-type{
+  font-size: .8em;
+  font-style: italic;
+}
 table caption{
   font-weight: bolder;
-  font-size: .8em;
+  font-size: 1.5em;
 }
